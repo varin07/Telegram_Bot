@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 
-TOKEN = "1698757895:AAGT6xPOdUCtqkhfN4M3xd21r4GH-TvGl0g"
+TOKEN = "HiddenToken that is used to uniquely identify the bot"
 
 app = Flask(__name__)
 
